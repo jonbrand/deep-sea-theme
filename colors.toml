@@ -1,0 +1,36 @@
+# Ocean Green — Omarchy theme
+# Palette ported from the "Ocean Green: Dark" VS Code theme (jovejonovski.ocean-green).
+
+mode = "dark"
+
+accent = "#19d08a"
+selection = "#14402f"
+muted = "#4a6c74"
+
+background = "#111d1e"
+dark_background = "#0e1819"
+darker_background = "#0b1314"
+lighter_background = "#1d3133"
+
+foreground = "#639caa"
+dark_foreground = "#517680"
+light_foreground = "#a1c3cb"
+bright_foreground = "#add0d9"
+
+hyprland_active_border = "rgba(19d08aee) rgba(2a99b5ee) 45deg"
+
+red = "#bb6666"
+yellow = "#bbb466"
+orange = "#c28a5c"
+green = "#66bb66"
+cyan = "#34bbbb"
+blue = "#2a99b5"
+magenta = "#aa6eb8"
+brown = "#6b5440"
+
+bright_red = "#c96e6e"
+bright_yellow = "#cbc36f"
+bright_green = "#6fcc6f"
+bright_cyan = "#38c9c9"
+bright_blue = "#2da5c4"
+bright_magenta = "#b776c6"
